@@ -88,5 +88,5 @@ om du vill ha hjälp att sätta upp den varianten istället.
 
 ## Och Android?
 
-Mappen `../mobil-gps/` innehåller motsvarande verktyg för Android, som läser GPS direkt
+Mappen `../android/` innehåller motsvarande verktyg för Android, som läser GPS direkt
 över USB via ADB.
