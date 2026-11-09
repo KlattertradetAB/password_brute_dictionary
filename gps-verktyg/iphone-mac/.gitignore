@@ -1,5 +1,0 @@
-.cert/
-*.jsonl
-__pycache__/
-*.pyc
-server.out
